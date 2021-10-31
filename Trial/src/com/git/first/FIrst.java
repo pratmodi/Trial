@@ -16,6 +16,7 @@ public class FIrst {
 		System.out.println("10");
 		System.out.println("Hello from Modi");
 		System.out.println("Hello from Vivek");
+		System.out.println("Hello");
 	}
 
 }
